@@ -6,6 +6,7 @@
 
 ### <i>About Me</i>
 - 🐌 I'm currently working on a FiveM RPG Framework using JavaScript, Lua and HTML
+    - I'm currently also developing for a Norwegian FiveM server called <a href="http://norskonlinerollespill.no/">Norsk Online RolleSpill</a>
 - 📚 Want to learn using React and C++
 - 🐱 My favorite animals are cats!
 - 🎥 I love to watch Netflix <i>(Sometimes while coding 🤭)</i>
