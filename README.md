@@ -29,8 +29,11 @@
 - PHP
 - HTML
   - <a href="https://fontawesome.com/" target="_blank">FontAwesome</a>
-  - <a href="https://materializecss.com/" target="_blank">MaterializeCSS</a>
+  - <strike><a hef="https://materializecss.com/" target="_blank">MaterializeCSS</a></strike>
+  - <a href="https://material-ui.com/" target="_blank">Material UI</a>
   - CSS
     - SASS/SCSS
   - JavaScript
-    - jQuery
+    - React
+    - <strike>jQuery</strike>
+    - React
