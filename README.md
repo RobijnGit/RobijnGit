@@ -36,4 +36,3 @@
   - JavaScript
     - React
     - <strike>jQuery</strike>
-    - React
