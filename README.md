@@ -12,7 +12,6 @@
 - 🎥 I love to watch Netflix <i>(Sometimes while coding 🤭)</i>
 - 💬 My native language is Dutch, but I also speak fluently English!
 - 📫 You can contact me on Discord: Robijn#6092
-- 🦊 I'm also a fan of Senko-san, possibly a big weeb <i>(UwU)</i>
 
 <br><br>
 
@@ -29,10 +28,7 @@
 - PHP
 - HTML
   - <a href="https://fontawesome.com/" target="_blank">FontAwesome</a>
-  - <strike><a hef="https://materializecss.com/" target="_blank">MaterializeCSS</a></strike>
-  - <a href="https://material-ui.com/" target="_blank">Material UI</a>
   - CSS
     - SASS/SCSS
   - JavaScript
-    - React
-    - <strike>jQuery</strike>
+    - jQuery
