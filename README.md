@@ -5,8 +5,7 @@
 <hr>
 
 ### <i>About Me</i>
-- 🐌 I'm currently working on a FiveM RPG Framework using JavaScript, Lua and HTML
-    - I'm currently also developing for a Norwegian FiveM server called <a href="http://norskonlinerollespill.no/" target="_blank">Norsk Online RolleSpill</a>
+- 🐌 I'm currently working on a FiveM RPG Framework using JavaScript, Lua and HTML from scratch
 - 📚 Want to learn using React and C++
 - 🐱 My favorite animals are cats!
 - 🎥 I love to watch Netflix <i>(Sometimes while coding 🤭)</i>
@@ -25,7 +24,6 @@
 
 ### <i>Languages & Tools</i>
 - Lua
-- PHP
 - HTML
   - <a href="https://fontawesome.com/" target="_blank">FontAwesome</a>
   - CSS
