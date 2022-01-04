@@ -14,4 +14,5 @@
   - CSS
     - SASS/SCSS
   - JavaScript
+    - React <i>(Progressively learning, still nooby at it)</i>
     - jQuery
