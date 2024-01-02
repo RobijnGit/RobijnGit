@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/oclidQH6DrsAAAAd/cat-kitty.gif" alt="Meowdy!" style="width: 600px; height: auto" />
+<img src="https://media1.tenor.com/m/oclidQH6DrsAAAAd/cat-kitty.gif" title="Meowdy!" style="width: 30vh; height: auto" />
 
 ## <i>About Me</i>
 - 🐌 I'm currently working on a RedM Roleplaying Framework using TypeScript, Lua and SvelteJS from scratch!
